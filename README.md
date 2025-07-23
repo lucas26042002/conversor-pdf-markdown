@@ -1,6 +1,6 @@
 # 📄 Conversor PDF → Markdown
 
-Conversor simples e eficiente para transformar documentos PDF em Markdown usando inteligência artificial.
+Conversor simples e eficiente para transformar documentos PDF em Markdown usando Docling.
 
 ![Demo](demo.png)
 
